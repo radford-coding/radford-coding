@@ -1,6 +1,6 @@
 ## Hi, I'm Matt.
 
-A budding software developer and professional nerd, I'm currently studying at General Assembly. This profile has many of my deliverables for that course, as well as extra work.
+A budding PDX software developer and professional nerd, I'm currently studying at General Assembly. This profile has many of my deliverables for that course, as well as extra work.
 
 When not coding, I spend my time doing partner acrobatics, DMing D&D, organizing a festival, and trying to crush my friends at board games.
 
