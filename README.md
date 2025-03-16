@@ -1,8 +1,8 @@
 ## Hi, I'm Matt.
 
-A budding PDX software developer and professional nerd, I'm currently studying at General Assembly. This profile has many of my deliverables for that course, as well as extra work.
+A budding PDX software developer and professional nerd, I'm currently studying Software Engineering at General Assembly. This profile has many of my deliverables for that course, as well as extra level-up work and side projects. 
 
-When not coding, I spend my time doing partner acrobatics, DMing D&D, organizing a festival, and trying to crush my friends at board games.
+When not coding, I spend my time doing partner acrobatics, DMing D&D, cooking, organizing a festival, and trying to crush my friends at board games.
 
 <!--
 **radford-coding/radford-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
