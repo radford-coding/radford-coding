@@ -8,5 +8,7 @@ A budding PDX software developer and professional nerd, I've just graduated from
 
 When not coding, I spend my time doing partner acrobatics, DMing D&D, cooking, organizing a festival, and trying to crush my friends at board games.
 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=radford-coding&repo=bearbnb)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radford-coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
