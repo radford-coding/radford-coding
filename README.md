@@ -1,4 +1,8 @@
-## Hi, I'm Matt.
+## Hi, I'm Matt 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
 
 A budding PDX software developer and professional nerd, I'm currently studying Software Engineering at General Assembly. This profile has many of my deliverables for that course, as well as extra level-up work and side projects. 
 
