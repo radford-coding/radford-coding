@@ -7,7 +7,7 @@ A budding PDX software developer and professional nerd, I've just graduated from
 
 When not coding, I spend my time doing partner acrobatics, DMing D&D, cooking, organizing a festival, and trying to crush my friends at board games.
 
-<a href="https://www.linkedin.com/in/matt-radford-codes/"><img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835-2048x2048.png" /></a>
+<a href="https://www.linkedin.com/in/matt-radford-codes/"><img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835-2048x2048.png" style="max-width: 16px; max-height: 16px;" /></a>
 
 <!--
 **radford-coding/radford-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
