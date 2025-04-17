@@ -3,9 +3,11 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
 
-A budding PDX software developer and professional nerd, I'm currently studying Software Engineering at General Assembly. This profile has many of my deliverables for that course, as well as extra level-up work and side projects. 
+A budding PDX software developer and professional nerd, I've just graduated from the Software Engineering Bootcamp at General Assembly. This profile has many of my deliverables for that course, as well as extra level-up work and side projects. 
 
 When not coding, I spend my time doing partner acrobatics, DMing D&D, cooking, organizing a festival, and trying to crush my friends at board games.
+
+<a href="https://www.linkedin.com/in/matt-radford-codes/"><img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835-2048x2048.png" /></a>
 
 <!--
 **radford-coding/radford-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
